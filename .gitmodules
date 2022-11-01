@@ -1,3 +1,9 @@
 [submodule "core"]
 	path = core
 	url = ./core
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact.git
+[submodule "partner-contact1"]
+	path = partner-contact1
+	url = https://github.com/OCA/partner-contact.git
